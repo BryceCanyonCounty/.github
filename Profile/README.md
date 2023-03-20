@@ -9,6 +9,7 @@ Bryce Canyon County is a RedM script development studio that offers quality, tes
 
 ### Official developers
   * [bytesizd](https://github.com/AndrewR3K)
+  * [Jake2k4](https://github.com/jakeyboi1)
 
 ### SUPPORT
 
