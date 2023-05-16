@@ -16,6 +16,7 @@ Bryce Canyon County is a RedM script development studio that offers quality, tes
 Support is offered but not guaranteed in the official 
 Discord
 
-**VORP:** [DISCORD](https://discord.gg/DHGVAbCj7N)
-**BCC:** [DISCORD](https://discord.gg/bNDpwruqwX))
+**VORP Framework:** [DISCORD](https://discord.gg/DHGVAbCj7N)
+
+**BCC Scripts:** [DISCORD](https://discord.gg/bNDpwruqwX)
 ___
