@@ -17,5 +17,5 @@ Support is offered but not guaranteed in the official
 Discord
 
 **VORP:** [DISCORD](https://discord.gg/DHGVAbCj7N)
-**BCC:** [DISCORD](https://discord.gg/DuJjYJaq)
+**BCC:** [DISCORD](https://discord.gg/bNDpwruqwX))
 ___
