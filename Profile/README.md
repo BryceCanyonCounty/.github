@@ -1,6 +1,7 @@
-![bcclogo](https://user-images.githubusercontent.com/10902965/210523496-ed96ee1c-c12c-4999-b6d0-4c8cc3ae6e2e.png)
+![BCCLogo](https://github.com/BryceCanyonCounty/.github/assets/10902965/ab282ba6-c190-42d1-bbe3-f33ed0585f6c)
 
 # ***[Bryce Canyon County (BCC) Scripts](https://bcc-scripts.com/)***
+
 ___
 
 ### ABOUT
