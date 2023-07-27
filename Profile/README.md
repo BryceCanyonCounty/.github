@@ -1,4 +1,5 @@
-![BCCLogo](https://github.com/BryceCanyonCounty/.github/assets/10902965/ab282ba6-c190-42d1-bbe3-f33ed0585f6c)
+![BCCLogo](https://github.com/BryceCanyonCounty/.github/assets/10902965/8e7f14f3-42c9-4146-9990-6c63773054c2)
+
 
 # ***[Bryce Canyon County (BCC) Scripts](https://bcc-scripts.com/)***
 
